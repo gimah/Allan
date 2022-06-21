@@ -1,2 +1,2 @@
 # Allan
-Creating software in eliminating waste produce to the environment
+Creating software in detecting  types of waste and it effect to the environment
